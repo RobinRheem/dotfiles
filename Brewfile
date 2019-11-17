@@ -19,6 +19,7 @@ brew 'jenv'
 brew 'pyenv'
 brew 'zplug'
 brew 'zsh'
+brew 'rbenv'
 
 # Apps
 cask 'aerial'

@@ -21,6 +21,7 @@ brew 'zplug'
 brew 'zsh'
 brew 'rbenv'
 brew 'htop'
+brew 'speedtest-cli'
 
 # Apps
 cask 'aerial'

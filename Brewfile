@@ -20,6 +20,7 @@ brew 'pyenv'
 brew 'zplug'
 brew 'zsh'
 brew 'rbenv'
+brew 'htop'
 
 # Apps
 cask 'aerial'

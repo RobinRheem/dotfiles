@@ -60,7 +60,6 @@ cask 'font-source-serif-pro'
 
 # Mac App Store
 mas 'Kindle', id: 405399194
-mas 'Notability', id: 736189492
 mas 'Slack', id: 803453959 
 mas 'Alfred', id: 405843582 
 

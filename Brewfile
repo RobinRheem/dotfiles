@@ -26,7 +26,7 @@ brew 'speedtest-cli'
 # Apps
 cask 'aerial'
 cask 'google-chrome'
-cask 'java'
+cask 'adoptopenjdk'
 cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'

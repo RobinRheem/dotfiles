@@ -41,6 +41,7 @@ cask 'gas-mask'
 cask 'caffeine'
 cask 'emacs'
 cask 'charles'
+cask 'tunnelblick'
 
 # Quicklook
 cask 'qlcolorcode'

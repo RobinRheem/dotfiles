@@ -22,6 +22,8 @@ brew 'zsh'
 brew 'rbenv'
 brew 'htop'
 brew 'speedtest-cli'
+brew 'tldr'
+brew 'archey'
 
 # Apps
 cask 'aerial'

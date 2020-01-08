@@ -65,4 +65,4 @@ cask 'font-source-serif-pro'
 mas 'Kindle', id: 405399194
 mas 'Slack', id: 803453959 
 mas 'Alfred', id: 405843582 
-
+mas 'Xcode', id: 497799835

@@ -24,6 +24,7 @@ brew 'htop'
 brew 'speedtest-cli'
 brew 'tldr'
 brew 'archey'
+brew 'mycli'
 
 # Apps
 cask 'aerial'

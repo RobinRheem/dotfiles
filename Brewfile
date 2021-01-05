@@ -1,12 +1,11 @@
 cask_args appdir: "/Applications"
 
 # Taps
-tap 'caskroom/cask'
-tap 'caskroom/eid'
-tap 'caskroom/fonts'
-tap 'caskroom/versions'
+tap 'homebrew/cask'
+tap 'homebrew/cask-fonts'
+tap 'homebrew/cask-versions'
 tap 'homebrew/bundle'
-tap 'mas-cli/tap', pin: true
+tap 'mas-cli/tap'
 
 # Binaries
 brew 'bat'
@@ -25,6 +24,7 @@ brew 'speedtest-cli'
 brew 'tldr'
 brew 'archey'
 brew 'mycli'
+brew 'svn'
 
 # Apps
 cask 'aerial'
